@@ -1,0 +1,2 @@
+# GametitleGit
+「ゲームタイトル」のGitHub
